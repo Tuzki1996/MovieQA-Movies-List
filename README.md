@@ -349,7 +349,8 @@ https://www.imdb.com/title/tt0790636/
 https://www.imdb.com/title/tt0120586/
 https://www.imdb.com/title/tt0294357/
 https://www.imdb.com/title/tt0107614/
-https://www.imdb.com/title/tt2278388tt0822832/
+https://www.imdb.com/title/tt2278388/
+https://www.imdb.com/title/tt0822832/
 https://www.imdb.com/title/tt0087892/
 https://www.imdb.com/title/tt0363771/
 https://www.imdb.com/title/tt0034583/
